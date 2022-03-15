@@ -1,16 +1,22 @@
-### Hi there 👋
+<h1 align="center">Hello World 👋</h1>
 
-<!--
-**yccv/yccv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center"> Welcome to my github page, I'm Not learning trust me.</h1>
 
-Here are some ideas to get you started:
+<details>
+  <summary align="center">About Me</summary>
+  Hi there, here is a bref about me summery; </br>
+  
+  - My name is Com, </br>
+  - I'm a gay coder that skids :trollface:.</br>
+  - I speak English and ASL but I'm still learning <3 </br>
+  - Thanks for viewing my github profile :) </br>
+</details>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<details>
+  <summary align="center">Links</summary>
+  
+- Personal Discord: .com#0667 </br>
+
+</details>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yccv&label=Profile%20views&color=a143df&style=flat" alt="profile views" /> </p>
