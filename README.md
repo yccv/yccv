@@ -1,6 +1,6 @@
 <h1 align="center">Hello World 👋</h1>
 
-<h1 align="center"> Welcome to my github page, I'm Not learning trust me.</h1>
+<h1 align="center"> Welcome to my github page, I'm not learning trust me.</h1>
 
 <details>
   <summary align="center">About Me</summary>
