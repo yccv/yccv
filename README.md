@@ -15,7 +15,7 @@
 <details>
   <summary align="center">Links</summary>
   
-- Personal Discord: .com#0667 </br>
+- Personal Discord: .com#1000 </br>
 
 </details>
 
