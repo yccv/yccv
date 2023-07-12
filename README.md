@@ -15,7 +15,7 @@
 <details>
   <summary align="center">Links</summary>
   
-- Personal Discord: Apr!l#3333 </br>
+- Personal Discord: 0__v </br>
 
 </details>
 
