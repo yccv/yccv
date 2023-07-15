@@ -6,7 +6,7 @@
   <summary align="center">About Me</summary>
   Hi there, here is a bref about me summery; </br>
   
-  - My name is Apr!l or .com, </br>
+  - My name is Apr1l nice to meet :D, </br>
   - I'm a gay coder that skids and pastes :trollface:.</br>
   - I speak English and ASL but I'm still learning <3 </br>
   - Thanks for viewing my github profile :) </br>
