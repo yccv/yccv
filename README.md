@@ -15,7 +15,7 @@
 <details>
   <summary align="center">Links</summary>
   
-- Personal Discord: 0__v </br>
+- Personal Discord: ecotrin </br>
 
 </details>
 
